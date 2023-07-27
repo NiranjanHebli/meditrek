@@ -46,7 +46,7 @@ Open a Director and bash in it
 Clone the project
 
 ```bash
-git clone https://github.com/GeeksForGeeks-Hackathon/Meditrex.git
+git clone https://github.com/NiranjanHebli/Meditrex.git
 ```
 Add enviornment variables in .env file
 
