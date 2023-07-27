@@ -1,0 +1,11 @@
+.center {
+    display: flex;
+    justify-content: center; 
+    align-items: center; 
+    height: 100vh; 
+  }
+
+  /* div {
+    border: 2px solid #007bff; 
+    padding: 10px; 
+  } */
